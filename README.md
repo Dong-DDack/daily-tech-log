@@ -1,13 +1,18 @@
-📚 Daily Tech Log
+# 📚 Daily Tech Log
 
-매일 학습한 기술 개념, 보안 실습, 인프라 및 개발 지식을 기록하고 아카이빙하는 공간입니다.
+> 매일 학습한 기술 개념, 보안 실습, 인프라 및 개발 지식을 기록하고 아카이빙하는 공간입니다.  
+> 단순한 복사-붙여넣기가 아닌 **"왜(Why) 배우는가?"** 와 **"실무에서의 쓰임새"** 를 중심으로 정리합니다.
 
-단순한 복사-붙여넣기가 아닌 "왜(Why) 배우는가?" 와 "실무에서의 쓰임새" 를 중심으로 정리합니다.
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Security%20%7C%20Linux%20%7C%20DevOps-blue?style=flat-square" alt="Focus">
+  <img src="https://img.shields.io/badge/Author-김동오-lightgrey?style=flat-square" alt="Author">
+  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License">
+</p>
 
-🎯 학습 원칙 (Study Rules)
+---
 
-본질 파악 (Why & How): 명령어나 문법 암기보다 동작 원리와 실무 활용 목적을 우선 이해합니다.
+## 🎯 학습 원칙 (Study Rules)
 
-직접 실습 (Hands-on): CLI 명령어, 도구 설정, 스크립트 작성 등 직접 터미널에서 실행하고 검증합니다.
-
-지속성 (Consistency): 작은 개념이라도 명확히 내 언어로 소화하여 기록합니다.
+1. **본질 파악 (Why & How):** 명령어나 문법 암기보다 동작 원리와 실무 활용 목적을 우선 이해합니다.
+2. **직접 실습 (Hands-on):** CLI 명령어, 도구 설정, 스크립트 작성 등 직접 터미널에서 실행하고 검증합니다.
+3. **지속성 (Consistency):** 작은 개념이라도 명확히 내 언어로 소화하여 기록합니다.
