@@ -3,12 +3,6 @@
 > 매일 학습한 기술 개념, 보안 실습, 인프라 및 개발 지식을 기록하고 아카이빙하는 공간입니다.  
 > 단순한 복사-붙여넣기가 아닌 **"왜(Why) 배우는가?"** 와 **"실무에서의 쓰임새"** 를 중심으로 정리합니다.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Focus-Security%20%7C%20Linux%20%7C%20DevOps-blue?style=flat-square" alt="Focus">
-  <img src="https://img.shields.io/badge/Author-김동오-lightgrey?style=flat-square" alt="Author">
-  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License">
-</p>
-
 ---
 
 ## 🎯 학습 원칙 (Study Rules)
